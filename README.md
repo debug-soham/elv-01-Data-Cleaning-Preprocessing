@@ -17,4 +17,4 @@ This task focuses on preparing the Titanic dataset for machine learning. It incl
 
 <br>
 
-> 🗓️ Part of internship at Elevate Labs (Day 1 Task)
+> 🗓️ Part of internship at Elevate Labs
